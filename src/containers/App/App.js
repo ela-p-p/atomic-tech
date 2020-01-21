@@ -11,7 +11,7 @@ class App extends Component {
     route: "home"
   };
   componentDidMount() {
-    this.setState({ route: "about" });
+    this.setState({ route: "portfolio" });
   }
   onRouteChange = route => {
     this.setState({
