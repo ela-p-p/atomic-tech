@@ -36,18 +36,18 @@ const Portfolio = () => {
                 Clarifai API
               </p>
               <a
-                className="mb2"
+                className="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1 mb2"
                 href="https://ela-p-p.github.io/facerecognitionbrain/"
               >
                 Webpage
               </a>
               <a
-                className="mb2"
+                className="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1 mb2"
                 href="https://github.com/ela-p-p/facerecognitionbrain"
               >
                 Code: Front-end
               </a>
-              <a href="https://github.com/ela-p-p/smart-brain-api">
+              <a className="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1" href="https://github.com/ela-p-p/smart-brain-api">
                 Code: Back-end
               </a>
             </div>
@@ -72,10 +72,10 @@ const Portfolio = () => {
               <p className="f6 lh-copy measure mt2 mid-gray">
                 Front-end web page built with React and Jsonplaceholder API
               </p>
-              <a className="mb2" href="https://ela-p-p.github.io/roboFriends/">
+              <a className="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1 mb2" href="https://ela-p-p.github.io/roboFriends/">
                 Webpage
               </a>
-              <a href="https://github.com/ela-p-p/roboFriends">Code</a>
+              <a className="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1" href="https://github.com/ela-p-p/roboFriends">Code</a>
             </div>
           </div>
         </article>
@@ -95,13 +95,13 @@ const Portfolio = () => {
               </div>
             </div>
             <div className="flex flex-column">
-              <p className="no-underline f6 lh-copy measure mt2 mid-gray">
+              <p className="f6 lh-copy measure mt2 mid-gray">
                 Front-end web page built with React and Star Wars API
               </p>
-              <a className="mb2" href="https://ela-p-p.github.io/starwars/">
+              <a className="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br2 mb2" href="https://ela-p-p.github.io/starwars/">
                 Webpage
               </a>
-              <a href="https://github.com/ela-p-p/starwars">Code</a>
+              <a className="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br2" href="https://github.com/ela-p-p/starwars">Code</a>
             </div>
           </div>
         </article>
